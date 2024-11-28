@@ -2,6 +2,7 @@
  Microservice Asp.Net Core & Reactjs for Currency Exchange Rates Demo
 
 The project is about a client server application that should lively demonstrate the exchange rates of currencies that fetched from an external online source.
+A short video has been provided for explanation about the project in the link: https://www.loom.com/share/414105b2f14542b4a012a57b233bc14f?sid=27444f8a-ccc7-4299-a047-4430ba08b213
 
 The project separated to 2 parts: one for the back-end and the other is for the front-end.
 
