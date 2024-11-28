@@ -1,0 +1,14 @@
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\bin\Debug\net6.0\CurrencyExchange.Resources.deps.json
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\bin\Debug\net6.0\CurrencyExchange.Resources.dll
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\bin\Debug\net6.0\CurrencyExchange.Resources.pdb
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\CurrencyExchange.Resources.csproj.AssemblyReference.cache
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\CurrencyExchange.Resources.Messages.resources
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\CurrencyExchange.Resources.csproj.GenerateResource.cache
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\CurrencyExchange.Resources.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\CurrencyExchange.Resources.AssemblyInfoInputs.cache
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\CurrencyExchange.Resources.AssemblyInfo.cs
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\CurrencyExchange.Resources.csproj.CoreCompileInputs.cache
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\CurrencyExchange.Resources.dll
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\refint\CurrencyExchange.Resources.dll
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\CurrencyExchange.Resources.pdb
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Resources\obj\Debug\net6.0\ref\CurrencyExchange.Resources.dll

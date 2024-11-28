@@ -1,0 +1,16 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/v1/currency-exchange/rates",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5052
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/currency-exchange/rates",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ]
+}

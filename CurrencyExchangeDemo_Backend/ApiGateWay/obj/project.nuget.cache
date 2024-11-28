@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEpKIBCW0eUF+xCnty9gmljksBI9vKBXJpV3eMHtbTWCFqThiPSrsaf877UVfnr8Ez0VXV+fBvUCVUXuT01IOg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\CurrencyExchangeDemo\\ApiGateWay\\ApiGateWay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nima\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\ipaddressrange\\6.0.0\\ipaddressrange.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.35\\microsoft.aspnetcore.jsonpatch.6.0.35.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\6.0.35\\microsoft.aspnetcore.middlewareanalysis.6.0.35.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.35\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.35.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.32\\microsoft.extensions.diagnosticadapter.3.1.32.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\ocelot\\23.4.1\\ocelot.23.4.1.nupkg.sha512",
+    "C:\\Users\\Nima\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

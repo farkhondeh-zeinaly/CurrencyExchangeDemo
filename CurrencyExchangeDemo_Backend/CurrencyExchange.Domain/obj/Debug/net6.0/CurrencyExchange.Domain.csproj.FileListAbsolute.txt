@@ -1,0 +1,12 @@
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\bin\Debug\net6.0\CurrencyExchange.Domain.deps.json
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\bin\Debug\net6.0\CurrencyExchange.Domain.dll
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\bin\Debug\net6.0\CurrencyExchange.Domain.pdb
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\obj\Debug\net6.0\CurrencyExchange.Domain.csproj.AssemblyReference.cache
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\obj\Debug\net6.0\CurrencyExchange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\obj\Debug\net6.0\CurrencyExchange.Domain.AssemblyInfoInputs.cache
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\obj\Debug\net6.0\CurrencyExchange.Domain.AssemblyInfo.cs
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\obj\Debug\net6.0\CurrencyExchange.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\obj\Debug\net6.0\CurrencyExchange.Domain.dll
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\obj\Debug\net6.0\refint\CurrencyExchange.Domain.dll
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\obj\Debug\net6.0\CurrencyExchange.Domain.pdb
+E:\Projects\CurrencyExchangeDemo\CurrencyExchange.Domain\obj\Debug\net6.0\ref\CurrencyExchange.Domain.dll
